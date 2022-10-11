@@ -3,7 +3,7 @@ using System;
 namespace ServiceDiscovery
 {
     /// <summary>
-    /// ServiceConfig class
+    /// ServiceConfig configuration properties
     /// </summary>
     public class ServiceConfig
     {
